@@ -1,1 +1,23 @@
 #1 Configure download from MT5 platform
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------
+=====================================  IDEAS ===========================================
+----------------------------------------------------------------------------------------
+
+- Use of Docker for each process (containerized)
+
+
+docker-compose up --build -d
+docker exec -it spark_container bash
+python3 scripts/process_data.py
