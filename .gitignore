@@ -1,1 +1,7 @@
 pipelines/mt5_data_extraction/.ipynb_checkpoints/
+*.ipynb
+pipelines/mt5_data_extraction/data/
+pipelines/mt5_data_extraction/scripts/histdata_cache/EURUSD/M1/ASCII/M1/eurusd/2024/.data
+pipelines/mt5_data_extraction/scripts/histdata_cache/
+pipelines/mt5_data_extraction/scripts/parquet_output/
+*.duckdb
